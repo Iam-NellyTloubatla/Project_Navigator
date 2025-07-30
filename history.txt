@@ -1,0 +1,85 @@
+  496  git clone https://github.com/Iam-NellyTloubatla/Project_Navigator.git
+  497  ls
+  498  cd project_navigator
+  499  touch file.txt
+  500  mv file.txt
+  501  ls
+  502  rm file.txt
+  503  ls
+  504  touch file.sh
+  505  nano file.sh
+  506  chmod =x file.sh
+  507  chmod +x file.sh
+  508  ./file.sh
+  509  git init
+  510  cd ..
+  511  git init
+  512  git add .
+  513  cd project_vavigator
+  514  ls
+  515  cd Project_Navigator
+  516  git add .
+  517  git init
+  518  git commit -m"two files were added inside the project navigator"
+  519  nano file.sh
+  520  chmod += file.sh
+  521  ./file.sh
+  522  ls
+  523  git init
+  524  git add .
+  525  git commit -m"combined the files altogether"
+  526  git push
+  527  nano file.sh
+  528  rm nano file.sh
+  529  ls
+  530  cd file.sh
+  531  rm the
+  532  ls
+  533  rm  your details
+  534  ls
+  535  rm personal dprojects purpose
+  536  rm personal
+  537  ls
+  538  rm projects
+  539  ls
+  540  git init
+  541  git add .
+  542  git commit -m"deleted files outside the text file"
+  543  git push
+  544  ls
+  545  toush setup.sh
+  546  ls
+  547  touch setup.sh
+  548  nano setup
+  549  ls
+  550  cd setup
+  551  nano setup
+  552  chmod +x setup.sh
+  553  ./setup.sh
+  554  git init
+  555  git add .
+  556  git commit -m"added a message inside the setup script"
+  557  status
+  558  git push
+  559  ls
+  560  git status
+  561  pwd
+  562  history
+  563  touch history.txt
+  564  cd history.txt
+  565  ls
+  566  cd history.txt
+  567  rm history.txt
+  568  ls
+  569  nano setup.sh
+  570  nano setup
+  571  nano setup.sh
+  572  ls
+  573  touch history.txt
+  574  cd history.txt
+  575  ls
+  576  cd history.txt
+  577  git push
+  578  code .
+  579  history
+
