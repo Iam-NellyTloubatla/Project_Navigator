@@ -82,4 +82,103 @@
   577  git push
   578  code .
   579  history
+580  git init
+  581  git add .
+  582  git commit -m"added a history.txt file"
+  583  git push
+  584  nano setup.sh
+  585  chmod +x setup.sh
+  586  ./setup.sh
+  587  git init
+  588  git add .
+  589  git commit -m"wrote the plain text inside the setup.sh file"
+  590  rm setup
+  591  ls
+  592  git push
+  593  status
+  594  git status
+  595  git push
+  596  ls
+  597  cd project_navigator
+  598  cd Project_Navigator
+  599  ls project_navigator
+  600  pwd
+  601  ls
+  602  nano setup.sh
+  603  chmod +x setup.sh
+  604  ./setup.sh
+  605  git init
+  606  igt add .
+  607  git ad .
+  608  git add .
+  609  git commit -m"wrote two message files inside the setup.sh script to echo in Project Nagivator"
+  610  git push
+  611  nano setup.sh
+  612  git init
+  613  git add .
+  614  git commit -m
+  615  git commit -m"changed a forward slash to a backslash"
+  616  git push
+  617  nano setup.sh
+  618  chmod +x setup.sh
+  619  ./setup.sh
+  620  nano setup.sh
+  621  chmos +x setup.sh
+  622  chmod +x setup.sh
+  623  ./setup.sh
+  624  git init
+  625  git add .
+  626  git commit -m"added a space between the messages in the setup.sh file"
+  627  git push
+  628  history
+ 580  git init
+  581  git add .
+  582  git commit -m"added a history.txt file"
+  583  git push
+  584  nano setup.sh
+  585  chmod +x setup.sh
+  586  ./setup.sh
+  587  git init
+  588  git add .
+  589  git commit -m"wrote the plain text inside the setup.sh file"
+  590  rm setup
+  591  ls
+  592  git push
+  593  status
+  594  git status
+  595  git push
+  596  ls
+  597  cd project_navigator
+  598  cd Project_Navigator
+  599  ls project_navigator
+  600  pwd
+  601  ls
+  602  nano setup.sh
+  603  chmod +x setup.sh
+  604  ./setup.sh
+  605  git init
+  606  igt add .
+  607  git ad .
+  608  git add .
+  609  git commit -m"wrote two message files inside the setup.sh script to echo in Project Nagivator"
+  610  git push
+  611  nano setup.sh
+  612  git init
+  613  git add .
+  614  git commit -m
+  615  git commit -m"changed a forward slash to a backslash"
+  616  git push
+  617  nano setup.sh
+  618  chmod +x setup.sh
+  619  ./setup.sh
+  620  nano setup.sh
+  621  chmos +x setup.sh
+  622  chmod +x setup.sh
+  623  ./setup.sh
+  624  git init
+  625  git add .
+  626  git commit -m"added a space between the messages in the setup.sh file"
+  627  git push
+  628  history
+
 
